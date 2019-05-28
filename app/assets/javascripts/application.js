@@ -13,5 +13,11 @@
 //= require rails-ujs
 //= require aos.min
 //= require activestorage
+//= require bootstrap.min
+//= require cable 
+//= require jquery.min
+//= require jquery.maskedinput.min
+//= require script
+//= require slick
 //= require turbolinks
 //= require_tree .

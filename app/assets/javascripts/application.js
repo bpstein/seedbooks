@@ -18,6 +18,6 @@
 //= require jquery.min
 //= require jquery.maskedinput.min
 //= require script
-//= require slick
+//= require slick.min
 //= require turbolinks
 //= require_tree .
